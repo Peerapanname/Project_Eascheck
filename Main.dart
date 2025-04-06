@@ -1,0 +1,1 @@
+class  extends Mock implements  {}
